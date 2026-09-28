@@ -1,0 +1,8 @@
+TABLA DE SUELDOS 2026 (CONFIDENCIAL)
+=====================================
+Puesto                              Sueldo mensual
+Director General                    95,000.00
+Coordinador de RRHH                 38,500.00
+Administrador de Servidores          32,000.00
+Coordinador de Sistemas             29,750.00
+Contadora General                   31,200.00

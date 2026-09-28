@@ -1,0 +1,15 @@
+# Local database credentials
+config/db.php
+
+# User uploads and lab sandbox contents
+uploads/*
+!uploads/.htaccess
+!uploads/index.html
+lab_sandbox/*
+!lab_sandbox/.htaccess
+!lab_sandbox/index.html
+
+# Operating system and logs
+.DS_Store
+Thumbs.db
+*.log
